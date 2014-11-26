@@ -1,0 +1,14 @@
+{
+  "name": "Mean-Example",
+  "version": "1.0.0",
+  "description": "An example mean stack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Vusi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}

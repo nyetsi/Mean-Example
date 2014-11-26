@@ -1,0 +1,21 @@
+{
+  "name": "Mean-Example",
+  "version": "0.0.0",
+  "authors": [
+    "Vusumuzi Magayiyana <vusumuzi.magayiyana@kaleidocode.co.za>"
+  ],
+  "description": "Mean example",
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.4"
+  }
+}
